@@ -1,7 +1,7 @@
 # PythonWebApp
 A sample web page using python and Sql lite
 
-This project is developed using the Pycharm
+This project is developed using the Pycharm IDE
 
 Download the project and import the project into pycharm
 
